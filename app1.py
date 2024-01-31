@@ -38,4 +38,4 @@ def predict():
 
 
 if __name__=="__main__":   # To start the app
-    app.run(host='0.0.0.0', port=8080)    # Enabling debugging
+    app.run(host='0.0.0.0')    # Enabling debugging
